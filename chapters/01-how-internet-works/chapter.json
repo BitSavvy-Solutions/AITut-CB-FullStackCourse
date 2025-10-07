@@ -1,0 +1,40 @@
+{
+  "chapterId": "ch01",
+  "title": "How the Internet Works",
+  "order": 1,
+  "duration": "1 week",
+  "objectives": [
+    "Understanding the basics of the internet",
+    "Navigating web browsers",
+    "Understanding HTTP and HTTPS"
+  ],
+  "materials": [
+    {
+      "materialId": "mat01-01",
+      "order": 1,
+      "title": "What is the Internet?",
+      "type": "reading",
+      "path": "materials/01-what-is-internet.md"
+    },
+    {
+      "materialId": "mat01-02",
+      "order": 2,
+      "title": "How Does the Internet Work?",
+      "type": "reading",
+      "path": "materials/02-how-does-it-work.md"
+    },
+    {
+      "materialId": "mat01-03",
+      "order": 3,
+      "title": "The Internet Routing Hierarchy",
+      "type": "reading",
+      "path": "materials/03-routing-hierarchy.md"
+    }
+  ],
+  "assignment": {
+    "assignmentId": "asg01",
+    "title": "Explain the Internet",
+    "type": "unpaid",
+    "path": "assignment.md"
+  }
+}

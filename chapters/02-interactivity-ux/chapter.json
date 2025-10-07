@@ -1,0 +1,66 @@
+{
+  "chapterId": "ch02",
+  "title": "Interactivity and User Experience",
+  "order": 2,
+  "duration": "7 weeks",
+  "objectives": [
+    "Introduction to JavaScript",
+    "Variables, data types and operators",
+    "Basic functions and control structures",
+    "Manipulating HTML elements with JavaScript",
+    "Handling user events",
+    "Form validation and interactivity"
+  ],
+  "materials": [
+    {
+      "materialId": "mat02-01",
+      "order": 1,
+      "title": "Introduction to JavaScript",
+      "type": "course",
+      "path": "materials/01-intro-javascript.md"
+    },
+    {
+      "materialId": "mat02-02",
+      "order": 2,
+      "title": "JavaScript Algorithms and Data Structures",
+      "type": "course",
+      "path": "materials/02-algorithms-data-structures.md"
+    },
+    {
+      "materialId": "mat02-03",
+      "order": 3,
+      "title": "JavaScript Hands-On Practice #1",
+      "type": "practice",
+      "path": "materials/03-javascript-practice-1.md"
+    },
+    {
+      "materialId": "mat02-04",
+      "order": 4,
+      "title": "Manipulating HTML Elements",
+      "type": "reading",
+      "path": "materials/04-manipulating-html.md"
+    },
+    {
+      "materialId": "mat02-05",
+      "order": 5,
+      "title": "Handling Events in JavaScript",
+      "type": "reading",
+      "path": "materials/05-handling-events.md"
+    },
+    {
+      "materialId": "mat02-06",
+      "order": 6,
+      "title": "Form Validation",
+      "type": "reading",
+      "path": "materials/06-form-validation.md"
+    },
+    {
+      "materialId": "mat02-07",
+      "order": 7,
+      "title": "JavaScript Hands-On Practice #2",
+      "type": "practice",
+      "path": "materials/07-javascript-practice-2.md"
+    }
+  ],
+  "assignment": null
+}

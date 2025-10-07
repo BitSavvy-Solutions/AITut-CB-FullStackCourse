@@ -1,0 +1,25 @@
+{
+  "courseId": "fullstack-2025",
+  "title": "Full-Stack Development Curriculum",
+  "description": "A comprehensive curriculum covering software development basics, front-end and back-end technologies, plus essential soft skills.",
+  "version": "1.0.0",
+  "provider": "CodeBlossom",
+  "contact": "info@code-blossom.com",
+  "lastUpdated": "2025-01-15",
+  "chapters": [
+    {
+      "chapterId": "ch01",
+      "order": 1,
+      "title": "How the Internet Works",
+      "duration": "1 week",
+      "path": "chapters/01-how-internet-works"
+    },
+    {
+      "chapterId": "ch02",
+      "order": 2,
+      "title": "Interactivity and User Experience",
+      "duration": "7 weeks",
+      "path": "chapters/02-interactivity-ux"
+    }
+  ]
+}
