@@ -39,4 +39,4 @@ Questions about the curriculum? Reach out to us at [info@code-blossom.com](mailt
 
 ## 📝 License
 
-© 2025 CodeBlossom. All rights reserved.
+GPL
