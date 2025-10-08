@@ -2,7 +2,7 @@
 
 ## 📖 Reading Assignment
 
-Read the following article to understand what the internet is:
+Read the following article to understand what the Internet is:
 
 **Article:** [What is the Internet? - GCFGlobal](https://edu.gcfglobal.org/en/internetbasics/what-is-the-internet/1/)
 
