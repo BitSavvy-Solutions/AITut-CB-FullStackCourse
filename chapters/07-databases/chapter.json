@@ -1,0 +1,40 @@
+{
+  "chapterId": "ch07",
+  "title": "Databases",
+  "order": 7,
+  "duration": "4 weeks",
+  "objectives": [
+    "Understand the principles of database management",
+    "Learn to design, create, and modify database structures",
+    "Perform data manipulation operations and develop proficiency in writing queries"
+  ],
+  "materials": [
+    {
+      "materialId": "mat07-01",
+      "order": 1,
+      "title": "Introduction to Databases and SQL Querying",
+      "type": "reading",
+      "path": "materials/01-introduction-to-databases-and-sql-querying.md"
+    },
+    {
+      "materialId": "mat07-02",
+      "order": 2,
+      "title": "Optional - Learn SQL on Code Academy",
+      "type": "reading",
+      "path": "materials/02-optional-learn-sql-on-codeacademy.md"
+    },
+    {
+      "materialId": "mat07-03",
+      "order": 3,
+      "title": "Introduction to MongoDB",
+      "type": "reading",
+      "path": "materials/03-introduction-to-mongodb.md"
+    }
+  ],
+  "assignment": {
+    "assignmentId": "asg07",
+    "title": "Query a Sample Database",
+    "type": "unpaid",
+    "path": "assignment.md"
+  }
+}

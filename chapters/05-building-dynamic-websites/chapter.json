@@ -1,0 +1,25 @@
+{
+  "chapterId": "ch05",
+  "title": "Building Dynamic Websites",
+  "order": 5,
+  "duration": "2 weeks",
+  "objectives": [
+    "Building responsive and attractive websites",
+    "Utilizing CSS frameworks"
+  ],
+  "materials": [
+    {
+      "materialId": "mat05-01",
+      "order": 1,
+      "title": "Bootstrap 5",
+      "type": "reading",
+      "path": "materials/01-bootstrap-5.md"
+    }
+  ],
+  "assignment": {
+    "assignmentId": "asg05",
+    "title": "Create a Responsive Website Using Bootstrap 5",
+    "type": "unpaid",
+    "path": "assignment.md"
+  }
+}

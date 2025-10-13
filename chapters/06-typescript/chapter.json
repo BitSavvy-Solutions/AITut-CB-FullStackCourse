@@ -1,0 +1,40 @@
+{
+  "chapterId": "ch06",
+  "title": "TypeScript",
+  "order": 6,
+  "duration": "2 weeks",
+  "objectives": [
+    "Difference between JavaScript and TypeScript",
+    "Introduction to TypeScript",
+    "Write code in TypeScript"
+  ],
+  "materials": [
+    {
+      "materialId": "mat06-01",
+      "order": 1,
+      "title": "Introduction to TypeScript",
+      "type": "reading",
+      "path": "materials/01-introduction-to-typescript.md"
+    },
+    {
+      "materialId": "mat06-02",
+      "order": 2,
+      "title": "How to Use TypeScript - Beginner-Friendly Tutorial",
+      "type": "reading",
+      "path": "materials/02-how-to-use-typescript-beginner-tutorial.md"
+    },
+    {
+      "materialId": "mat06-03",
+      "order": 3,
+      "title": "TypeScript Tutorial",
+      "type": "reading",
+      "path": "materials/03-typescript-tutorial.md"
+    }
+  ],
+  "assignment": {
+    "assignmentId": "asg06",
+    "title": "Write and Compile TypeScript Code",
+    "type": "unpaid",
+    "path": "assignment.md"
+  }
+}

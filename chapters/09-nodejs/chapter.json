@@ -1,0 +1,63 @@
+{
+  "chapterId": "ch09",
+  "title": "Node.js",
+  "order": 9,
+  "duration": "6 weeks",
+  "objectives": [
+    "Understand the fundamentals of Node.js and its architecture",
+    "Learn to build server-side applications using Node.js and Express",
+    "Develop proficiency in handling APIs, routing, and middleware"
+  ],
+  "materials": [
+    {
+      "materialId": "mat09-01",
+      "order": 1,
+      "title": "Introduction to Node.js - Code Academy",
+      "type": "reading",
+      "path": "materials/01-introduction-to-nodejs-codeacademy.md"
+    },
+    {
+      "materialId": "mat09-02",
+      "order": 2,
+      "title": "Node.js YouTube Tutorial",
+      "type": "reading",
+      "path": "materials/02-nodejs-youtube-tutorial.md"
+    },
+    {
+      "materialId": "mat09-03",
+      "order": 3,
+      "title": "Crash Course of Node.js",
+      "type": "reading",
+      "path": "materials/03-crash-course-of-nodejs.md"
+    },
+    {
+      "materialId": "mat09-04",
+      "order": 4,
+      "title": "W3Schools Node Tutorial",
+      "type": "reading",
+      "path": "materials/04-w3schools-node-tutorial.md"
+    },
+    {
+      "materialId": "mat09-05",
+      "order": 5,
+      "title": "Learn Express - Code Academy",
+      "type": "reading",
+      "path": "materials/05-learn-express-codeacademy.md"
+    },
+    {
+      "materialId": "mat09-06",
+      "order": 6,
+      "title": "Optional - MDN Docs",
+      "type": "reading",
+      "path": "materials/06-optional-mdn-docs.md"
+    },
+    {
+      "materialId": "mat09-07",
+      "order": 7,
+      "title": "The Odin Project",
+      "type": "reading",
+      "path": "materials/07-the-odin-project.md"
+    }
+  ],
+  "assignment": null
+}
