@@ -26,14 +26,14 @@
       "order": 3,
       "title": "HTML & CSS Fundamentals",
       "duration": "3 weeks",
-      "path": "chapters/03-html-css"
+      "path": "chapters/03-html-and-css"
     },
     {
       "chapterId": "ch04",
       "order": 4,
       "title": "Version Control & Hosting",
       "duration": "1 week",
-      "path": "chapters/04-version-control-hosting"
+      "path": "chapters/04-version-control-and-hosting"
     },
     {
       "chapterId": "ch05",
