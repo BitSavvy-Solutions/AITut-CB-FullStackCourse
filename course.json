@@ -20,7 +20,55 @@
       "title": "Interactivity and User Experience",
       "duration": "7 weeks",
       "path": "chapters/02-interactivity-ux"
+    },
+    {
+      "chapterId": "ch03",
+      "order": 3,
+      "title": "HTML & CSS Fundamentals",
+      "duration": "3 weeks",
+      "path": "chapters/03-html-css"
+    },
+    {
+      "chapterId": "ch04",
+      "order": 4,
+      "title": "Version Control & Hosting",
+      "duration": "1 week",
+      "path": "chapters/04-version-control-hosting"
+    },
+    {
+      "chapterId": "ch05",
+      "order": 5,
+      "title": "Building Dynamic Websites",
+      "duration": "2 weeks",
+      "path": "chapters/05-building-dynamic-websites"
+    },
+    {
+      "chapterId": "ch06",
+      "order": 6,
+      "title": "Introduction to TypeScript",
+      "duration": "1 week",
+      "path": "chapters/06-typescript"
+    },
+    {
+      "chapterId": "ch07",
+      "order": 7,
+      "title": "Databases and SQL Querying",
+      "duration": "4 weeks",
+      "path": "chapters/07-databases"
+    },
+    {
+      "chapterId": "ch08",
+      "order": 8,
+      "title": "React Fundamentals",
+      "duration": "6 weeks",
+      "path": "chapters/08-react"
+    },
+    {
+      "chapterId": "ch09",
+      "order": 9,
+      "title": "Node.js and Express",
+      "duration": "6 weeks",
+      "path": "chapters/09-nodejs"
     }
   ]
 }
-
