@@ -1,7 +1,7 @@
 {
-  "chapterId": "ch08",
+  "chapterId": "ch09",
   "title": "React",
-  "order": 8,
+  "order": 9,
   "duration": "6 weeks",
   "objectives": [
     "Grasp the fundamentals of React concepts and architecture",
@@ -10,26 +10,25 @@
   ],
   "materials": [
     {
-      "materialId": "mat08-01",
+      "materialId": "mat09-01",
       "order": 1,
       "title": "Introduction to React and its Components",
-      "type": "reading",
+      "type": "course",
       "path": "materials/01-introduction-to-react-and-its-components.md"
     },
     {
-      "materialId": "mat08-02",
+      "materialId": "mat09-02",
       "order": 2,
       "title": "Advanced React on Code Academy",
-      "type": "reading",
+      "type": "course",
       "path": "materials/02-advanced-react-on-codeacademy.md"
     },
     {
-      "materialId": "mat08-03",
+      "materialId": "mat09-03",
       "order": 3,
       "title": "Making a Tic-Tac-Toe Game in React",
-      "type": "reading",
+      "type": "tutorial",
       "path": "materials/03-making-a-tic-tac-toe-game-in-react.md"
     }
-  ],
-  "assignment": null
+  ]
 }

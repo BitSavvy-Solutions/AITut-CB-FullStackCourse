@@ -1,5 +1,5 @@
 {
-  "chapterId": "ch07",
+  "chapterId": "ch08",
   "title": "Databases",
   "order": 7,
   "duration": "4 weeks",
@@ -10,31 +10,32 @@
   ],
   "materials": [
     {
-      "materialId": "mat07-01",
+      "materialId": "mat08-01",
       "order": 1,
       "title": "Introduction to Databases and SQL Querying",
-      "type": "reading",
+      "type": "course",
       "path": "materials/01-introduction-to-databases-and-sql-querying.md"
     },
     {
-      "materialId": "mat07-02",
+      "materialId": "mat08-02",
       "order": 2,
       "title": "Optional - Learn SQL on Code Academy",
-      "type": "reading",
+      "type": "course",
       "path": "materials/02-optional-learn-sql-on-codeacademy.md"
     },
     {
-      "materialId": "mat07-03",
+      "materialId": "mat08-03",
       "order": 3,
       "title": "Introduction to MongoDB",
-      "type": "reading",
+      "type": "course",
       "path": "materials/03-introduction-to-mongodb.md"
+    },
+    {
+      "materialId": "asg08",
+      "order": 4,
+      "title": "Assignment",
+      "type": "assignment",
+      "path": "materials/04-assignment.md"
     }
-  ],
-  "assignment": {
-    "assignmentId": "asg07",
-    "title": "Query a Sample Database",
-    "type": "unpaid",
-    "path": "assignment.md"
-  }
+  ]
 }
