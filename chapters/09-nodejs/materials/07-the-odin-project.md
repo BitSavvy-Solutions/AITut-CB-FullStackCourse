@@ -1,4 +1,4 @@
 # The Odin Project
 
-Reinforce your skills with The Odin Project’s Node.js curriculum — combining project-based learning and real-world examples.
+- Go through the full course [here](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs). Practice all the topics and submit their projects on the google drive.
 

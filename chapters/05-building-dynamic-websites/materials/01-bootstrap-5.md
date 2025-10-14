@@ -1,5 +1,5 @@
 # Bootstrap 5
 
-Bootstrap 5 is a popular CSS framework that helps developers create responsive and mobile-first websites quickly.  
-Learn how to use Bootstrap’s grid system, components, and utilities to build dynamic and visually appealing layouts.
-
+- Go through the full course - [here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR).
+- Try out all code examples. 
+- Optional: Go through the course [here](https://www.w3schools.com/bootstrap5/index.php) and practice exercises. 

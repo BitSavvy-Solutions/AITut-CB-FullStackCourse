@@ -1,4 +1,3 @@
 # What is Version Control?
 
-Version control allows developers to manage changes to source code over time.  
-It helps teams collaborate, track revisions, and revert to previous versions when needed.
+- Read this [article](https://www.atlassian.com/git/tutorials/what-is-version-control) and install [git](https://git-scm.com/downloads)

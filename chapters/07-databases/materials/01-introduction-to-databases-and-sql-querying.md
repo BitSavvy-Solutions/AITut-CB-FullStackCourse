@@ -1,4 +1,7 @@
 # Introduction to Databases and SQL Querying
 
-Learn the fundamentals of databases, how data is stored, and how to interact with it using SQL.  
-Understand concepts like tables, relationships, and queries to retrieve and manage data effectively.
+- Complete the [course](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/)
+- Try out all the query examples in your editor.
+
+- Download SQL Server Management Studio by following this [tutorial](https://youtu.be/7zXtA0LwoHs?feature=shared) (Windows only)
+- Mac users can use this [online](https://sqliteonline.com/) editor to practice their queries

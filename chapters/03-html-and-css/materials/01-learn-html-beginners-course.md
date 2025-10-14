@@ -1,4 +1,4 @@
 # Learn HTML - Beginner’s Course
 
-This module introduces you to the basics of HTML.  
-You'll learn how web pages are structured and how to create elements such as headings, paragraphs, lists, and links.
+- Go through the full [course](https://www.freecodecamp.org/news/learn-html-beginners-course/)
+- Follow along with the course by duplicating every single step in the course on your own computer

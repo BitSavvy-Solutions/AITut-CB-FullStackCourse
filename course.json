@@ -5,109 +5,70 @@
   "version": "1.0.0",
   "provider": "CodeBlossom",
   "contact": "info@code-blossom.com",
-  "lastUpdated": "2025-10-13",
+  "lastUpdated": "2025-01-15",
   "chapters": [
     {
       "chapterId": "ch01",
       "order": 1,
       "title": "How the Internet Works",
       "duration": "1 week",
-      "path": "chapters/01-how-internet-works",
-      "hasAssignment": true,
-      "assignment": {
-        "assignmentId": "asg01",
-        "title": "Explain the Internet",
-        "type": "unpaid",
-        "path": "chapters/01-how-internet-works/assignment.md"
-      }
+      "path": "chapters/01-how-internet-works"
     },
     {
       "chapterId": "ch02",
       "order": 2,
       "title": "Interactivity and User Experience",
       "duration": "7 weeks",
-      "path": "chapters/02-interactivity-ux",
-      "hasAssignment": false
+      "path": "chapters/02-interactivity-ux"
     },
     {
       "chapterId": "ch03",
       "order": 3,
       "title": "HTML & CSS Fundamentals",
       "duration": "3 weeks",
-      "path": "chapters/03-html-and-css",
-      "hasAssignment": true,
-      "assignment": {
-        "assignmentId": "asg03",
-        "title": "Create a personal webpage using HTML and CSS",
-        "type": "unpaid",
-        "path": "chapters/03-html-css/assignment.md"
-      }
+      "path": "chapters/03-html-and-css"
     },
     {
       "chapterId": "ch04",
       "order": 4,
       "title": "Version Control & Hosting",
       "duration": "1 week",
-      "path": "chapters/04-version-control-and-hosting",
-      "hasAssignment": false
+      "path": "chapters/04-version-control-and-hosting"
     },
     {
       "chapterId": "ch05",
       "order": 5,
       "title": "Building Dynamic Websites",
       "duration": "2 weeks",
-      "path": "chapters/05-building-dynamic-websites",
-      "hasAssignment": true,
-      "assignment": {
-        "assignmentId": "asg05",
-        "title": "Create a Responsive Website Using Bootstrap 5",
-        "type": "unpaid",
-        "path": "chapters/05-building-dynamic-websites/assignment.md"
-      }
+      "path": "chapters/05-building-dynamic-websites"
     },
     {
       "chapterId": "ch06",
       "order": 6,
       "title": "Introduction to TypeScript",
       "duration": "1 week",
-      "path": "chapters/06-typescript",
-      "hasAssignment": true,
-      "assignment": {
-        "assignmentId": "asg06",
-        "title": "Write and Compile TypeScript Code",
-        "type": "unpaid",
-        "path": "chapters/06-typescript/assignment.md"
-      }
+      "path": "chapters/06-typescript"
     },
     {
       "chapterId": "ch07",
       "order": 7,
       "title": "Databases and SQL Querying",
       "duration": "4 weeks",
-      "path": "chapters/07-databases",
-      "hasAssignment": true,
-      "assignment": {
-        "assignmentId": "asg07",
-        "title": "Query a Sample Database",
-        "type": "unpaid",
-        "path": "chapters/07-databases/assignment.md"
-      }
+      "path": "chapters/07-databases"
     },
     {
       "chapterId": "ch08",
       "order": 8,
       "title": "React Fundamentals",
       "duration": "6 weeks",
-      "path": "chapters/08-react",
-      "hasAssignment": false
+      "path": "chapters/08-react"
     },
     {
       "chapterId": "ch09",
       "order": 9,
       "title": "Node.js and Express",
       "duration": "6 weeks",
-      "path": "chapters/09-nodejs",
-      "hasAssignment": false
+      "path": "chapters/09-nodejs"
     }
   ]
 }

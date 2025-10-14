@@ -1,4 +1,4 @@
 # Advanced React on Code Academy
 
-Continue your learning journey with advanced React concepts through Code Academy’s hands-on tutorials.  
-Topics include hooks, context, lifecycle methods, and performance optimization.
+- Go through the full course - [here](https://www.codecademy.com/learn/react-101).
+- Try out all the code examples.
