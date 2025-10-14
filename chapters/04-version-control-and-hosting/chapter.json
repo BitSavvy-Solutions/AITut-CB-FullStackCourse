@@ -21,14 +21,14 @@
       "materialId": "mat04-02",
       "order": 2,
       "title": "Learn Git, GitHub and GitHub Desktop",
-      "type": "reading",
+      "type": "tutorial",
       "path": "materials/02-learn-git-github-desktop.md"
     },
     {
       "materialId": "mat04-03",
       "order": 3,
       "title": "Web Hosting and Deployment (Follow Any One)",
-      "type": "reading",
+      "type": "tutorial",
       "path": "materials/03-web-hosting-and-deployment.md"
     }
   ]

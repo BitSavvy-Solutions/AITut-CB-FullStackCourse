@@ -13,21 +13,21 @@
       "materialId": "mat10-01",
       "order": 1,
       "title": "Introduction to Node.js - Code Academy",
-      "type": "reading",
+      "type": "course",
       "path": "materials/01-introduction-to-nodejs-codeacademy.md"
     },
     {
       "materialId": "mat10-02",
       "order": 2,
       "title": "Node.js YouTube Tutorial",
-      "type": "reading",
+      "type": "tutorial",
       "path": "materials/02-nodejs-youtube-tutorial.md"
     },
     {
       "materialId": "mat10-03",
       "order": 3,
       "title": "Crash Course of Node.js",
-      "type": "reading",
+      "type": "course",
       "path": "materials/03-crash-course-of-nodejs.md"
     },
     {
@@ -41,7 +41,7 @@
       "materialId": "mat10-05",
       "order": 5,
       "title": "Learn Express - Code Academy",
-      "type": "reading",
+      "type": "course",
       "path": "materials/05-learn-express-codeacademy.md"
     },
     {
@@ -55,7 +55,7 @@
       "materialId": "mat10-07",
       "order": 7,
       "title": "The Odin Project",
-      "type": "reading",
+      "type": "course",
       "path": "materials/07-the-odin-project.md"
     }
   ]
