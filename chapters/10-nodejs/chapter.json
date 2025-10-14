@@ -34,7 +34,7 @@
       "materialId": "mat10-04",
       "order": 4,
       "title": "W3Schools Node Tutorial",
-      "type": "reading",
+      "type": "tutorial",
       "path": "materials/04-w3schools-node-tutorial.md"
     },
     {
