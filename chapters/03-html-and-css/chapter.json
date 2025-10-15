@@ -1,0 +1,50 @@
+{
+  "chapterId": "ch03",
+  "title": "HTML & CSS",
+  "order": 3,
+  "duration": "3 weeks",
+  "objectives": [
+    "Introduction to HTML",
+    "Creating and structuring web pages",
+    "Adding text, links and images",
+    "Introduction to CSS",
+    "Applying styles to HTML elements"
+  ],
+  "materials": [
+    {
+      "materialId": "mat03-01",
+      "order": 1,
+      "title": "Learn HTML - Beginner’s Course",
+      "type": "course",
+      "path": "materials/01-learn-html-beginners-course.md"
+    },
+    {
+      "materialId": "mat03-02",
+      "order": 2,
+      "title": "HTML Basics",
+      "type": "course",
+      "path": "materials/02-html-basics.md"
+    },
+    {
+      "materialId": "mat03-03",
+      "order": 3,
+      "title": "Learn CSS in 11 hours",
+      "type": "course",
+      "path": "materials/03-learn-css-in-11-hours.md"
+    },
+    {
+      "materialId": "mat03-04",
+      "order": 4,
+      "title": "CSS Basic and Advanced Properties",
+      "type": "course",
+      "path": "materials/04-css-basic-and-advance-properties.md"
+    },
+    {
+      "materialId": "asg03",
+      "order": 5,
+      "title": "Assignment",
+      "type": "assignment",
+      "path": "materials/05-assignment.md"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "chapterId": "ch11",
+  "title": "Paid Assignment 2: Build a Full Stack Application",
+  "order": 11,
+  "duration": "2-3 months",
+  "objectives": [
+    "Develop a complete full stack MERN (MongoDB, Express, React, Node.js) application",
+    "Implement CRUD operations and backend integration",
+    "Deploy both frontend and backend to production platforms"
+  ],
+  "materials": [
+    {
+      "materialId": "mat11-01",
+      "order": 1,
+      "title": "Instructions for Full Stack Application Assignment",
+      "type": "assignment",
+      "path": "materials/01-instructions.md"
+    }
+  ]
+}

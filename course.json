@@ -20,6 +20,69 @@
       "title": "Interactivity and User Experience",
       "duration": "7 weeks",
       "path": "chapters/02-interactivity-ux"
+    },
+    {
+      "chapterId": "ch03",
+      "order": 3,
+      "title": "HTML & CSS Fundamentals",
+      "duration": "3 weeks",
+      "path": "chapters/03-html-and-css"
+    },
+    {
+      "chapterId": "ch04",
+      "order": 4,
+      "title": "Version Control & Hosting",
+      "duration": "1 week",
+      "path": "chapters/04-version-control-and-hosting"
+    },
+    {
+      "chapterId": "ch05",
+      "order": 5,
+      "title": "Paid Assignment 1: Build Your Portfolio Website",
+      "duration": "4 weeks",
+      "path": "chapters/05-paid-assignment-portfolio"
+    },
+    {
+      "chapterId": "ch06",
+      "order": 6,
+      "title": "Building Dynamic Websites",
+      "duration": "2 weeks",
+      "path": "chapters/06-building-dynamic-websites"
+    },
+    {
+      "chapterId": "ch07",
+      "order": 7,
+      "title": "TypeScript",
+      "duration": "2 weeks",
+      "path": "chapters/07-typescript"
+    },
+    {
+      "chapterId": "ch08",
+      "order": 8,
+      "title": "Databases",
+      "duration": "4 weeks",
+      "path": "chapters/08-databases"
+    },
+    {
+      "chapterId": "ch09",
+      "order": 9,
+      "title": "React Fundamentals",
+      "duration": "6 weeks",
+      "path": "chapters/09-react"
+    },
+    {
+      "chapterId": "ch10",
+      "order": 10,
+      "title": "Node.js and Express",
+      "duration": "6 weeks",
+      "path": "chapters/10-nodejs"
+    },
+    {
+      "chapterId": "ch11",
+      "order": 11,
+      "title": "Paid Assignment 2: Build a Full Stack Application",
+      "duration": "8 weeks",
+      "path": "chapters/11-paid-assignment-fullstack"
     }
   ]
 }

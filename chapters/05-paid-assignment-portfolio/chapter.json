@@ -1,0 +1,20 @@
+{
+  "chapterId": "ch05",
+  "title": "Paid Assignment 1: Build Your Portfolio Website",
+  "order": 5,
+  "duration": "4 weeks",
+  "objectives": [
+    "Apply HTML, CSS, and JavaScript skills to build a personal portfolio website",
+    "Demonstrate understanding of responsive web design",
+    "Deploy the website using GitHub Pages, Netlify, or any hosting platform"
+  ],
+  "materials": [
+    {
+      "materialId": "mat05-01",
+      "order": 1,
+      "title": "Instructions for Portfolio Assignment",
+      "type": "assignment",
+      "path": "materials/01-instructions.md"
+    }
+  ]
+}

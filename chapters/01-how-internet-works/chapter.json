@@ -29,12 +29,13 @@
       "title": "The Internet Routing Hierarchy",
       "type": "reading",
       "path": "materials/03-routing-hierarchy.md"
+    },
+    {
+      "materialId": "asg01",
+      "order": 4,
+      "title": "Assignment",
+      "type": "assignment",
+      "path": "materials/04-assignment.md"
     }
-  ],
-  "assignment": {
-    "assignmentId": "asg01",
-    "title": "Explain the Internet",
-    "type": "unpaid",
-    "path": "assignment.md"
-  }
+  ]
 }

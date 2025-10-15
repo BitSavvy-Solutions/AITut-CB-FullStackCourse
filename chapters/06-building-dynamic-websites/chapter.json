@@ -1,0 +1,26 @@
+{
+  "chapterId": "ch06",
+  "title": "Building Dynamic Websites",
+  "order": 6,
+  "duration": "2 weeks",
+  "objectives": [
+    "Building responsive and attractive websites",
+    "Utilizing CSS frameworks"
+  ],
+  "materials": [
+    {
+      "materialId": "mat06-01",
+      "order": 1,
+      "title": "Bootstrap 5",
+      "type": "course",
+      "path": "materials/01-bootstrap-5.md"
+    },
+    {
+      "materialId": "asg06",
+      "order": 2,
+      "title": "Assignment",
+      "type": "assignment",
+      "path": "materials/02-assignment.md"
+    }
+  ]
+}

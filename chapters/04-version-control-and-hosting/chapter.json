@@ -1,0 +1,35 @@
+{
+  "chapterId": "ch04",
+  "title": "Version Control & Hosting",
+  "order": 4,
+  "duration": "1 week",
+  "objectives": [
+    "Understanding version control",
+    "Learn git basics",
+    "Learn GitHub basics",
+    "Learn about hosting"
+  ],
+  "materials": [
+    {
+      "materialId": "mat04-01",
+      "order": 1,
+      "title": "What is Version Control?",
+      "type": "reading",
+      "path": "materials/01-what-is-version-control.md"
+    },
+    {
+      "materialId": "mat04-02",
+      "order": 2,
+      "title": "Learn Git, GitHub and GitHub Desktop",
+      "type": "tutorial",
+      "path": "materials/02-learn-git-github-desktop.md"
+    },
+    {
+      "materialId": "mat04-03",
+      "order": 3,
+      "title": "Web Hosting and Deployment (Follow Any One)",
+      "type": "tutorial",
+      "path": "materials/03-web-hosting-and-deployment.md"
+    }
+  ]
+}
