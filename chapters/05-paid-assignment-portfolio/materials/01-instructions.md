@@ -8,18 +8,23 @@ As part of the Code Blossom curriculum, you will enhance your personal portfolio
 
 ## Requirements
 
-1. **Tech Stack:**
-    - **Frontend:** HTML, CSS, JavaScript (Vanilla JS, no frameworks)
-    - **Deployment:** Your site must be hosted online using Netlify or GitHub Pages.
-2. **Functionality:**
-    - Add interactive elements using JavaScript (e.g., animations, dynamic content, form validation).
-    - Implement at least three major JavaScript concepts learned in the course.
-    - Ensure a smooth user experience with an intuitive UI.
-    - Improve upon your previous static portfolio by making it engaging and interactive.
-3. **Project Submission:**
-    - **GitHub Repository:** Upload your full project to GitHub with a clear README file.
-    - **Live Demo Link:** Provide a working URL to access your deployed portfolio.
-    - **Video Walkthrough:** Record a short video (3–5 minutes) demonstrating your portfolio’s features and explaining how it works.
+### 1. **Tech Stack:**
+
+- **Frontend:** HTML, CSS, JavaScript (Vanilla JS, no frameworks)
+- **Deployment:** Your site must be hosted online using Netlify or GitHub Pages.
+
+### 2. **Functionality:**
+
+- Add interactive elements using JavaScript (e.g., animations, dynamic content, form validation).
+- Implement at least three major JavaScript concepts learned in the course.
+- Ensure a smooth user experience with an intuitive UI.
+- Improve upon your previous static portfolio by making it engaging and interactive.
+
+### 3. **Project Submission:**
+
+- **GitHub Repository:** Upload your full project to GitHub with a clear README file.
+- **Live Demo Link:** Provide a working URL to access your deployed portfolio.
+- **Video Walkthrough:** Record a short video (3–5 minutes) demonstrating your portfolio’s features and explaining how it works.
 
 ## Steps to Complete the Project
 
