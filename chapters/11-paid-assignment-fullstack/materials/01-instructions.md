@@ -8,16 +8,16 @@ As the final milestone in the Code Blossom curriculum, you will build a full-sta
 
 ## Requirements
 
-### 1. **Tech Stack:**
+1. **Tech Stack:**
     - **Frontend:** React
     - **Backend:** Node.js with Express
     - **Database:** SQL (PostgreSQL, MySQL) or NoSQL (MongoDB)
     - **Deployment:** Your app must be hosted on the internet using a platform such as Vercel, Netlify, Render, or Heroku.
-### 2. **Functionality:**
+2. **Functionality:**
     - Your application must include user authentication (signup/login/logout) and CRUD (Create, Read, Update, Delete) operations.
     - Ensure a smooth user experience with a responsive and intuitive UI.
     - Use an external API or integrate a feature that adds unique value to your project.
-### 3. **Project Submission:**
+3. **Project Submission:**
     - **GitHub Repository:** Upload your full project to GitHub with a clear README file.
     - **Live Demo Link:** Provide a working URL to access your deployed application.
     - **Video Walkthrough:** Record a short video (5–10 minutes) demonstrating your app's functionality and explaining how it works.
