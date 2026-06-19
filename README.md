@@ -10,21 +10,6 @@ This curriculum includes both technical training in software development and ess
 - CV writing
 - Job interview preparation
 
-## 🗓️ Course Structure
-
-### Chapter 1: How the Internet Works (1 week)
-Learn the fundamentals of how the internet operates, including HTTP/HTTPS protocols and web browser navigation.
-
-### Chapter 2: Interactivity and User Experience (7 weeks)
-Master JavaScript fundamentals, DOM manipulation, event handling, and form validation.
-
-### Chapter 3: HTML & CSS (3 weeks)
-*Coming soon*
-
-### Chapter 4: Version Control & Hosting (1 week)
-*Coming soon*
-
-### And more...
 
 ## 🚀 Getting Started
 
